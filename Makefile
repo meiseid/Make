@@ -1,0 +1,1 @@
+include ${MAKETOP}/${MKTYPE}.mk
