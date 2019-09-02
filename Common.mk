@@ -1,6 +1,6 @@
 include ${MAKETOP}/${MKLANG}.mk
 
-CC_INC	+=	-I/usr/local/include -I/usr/include/postgresql
+CC_INC	+=	-I/usr/local/include
 LD_LIBS	+=	-L/usr/local/lib
 
 MAKEFILE		=	Makefile
